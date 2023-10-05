@@ -1,4 +1,6 @@
-jai modif le READ.me
+remote jai modif le READ.me
 test des conflit
 
 bonjour tt le monde
+
+
